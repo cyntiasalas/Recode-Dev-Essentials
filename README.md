@@ -12,9 +12,9 @@ Esse curso é perfeito para quem está iniciando na área de desenvolvimento Ful
 
 ## 🎯 Por que eu recomendo o curso?
 
-O **Recode DEV Essentials** aborda tudo o que você precisa para começar a sua jornada na área de tecnologia, de forma bem prática e objetiva. Aprendi muito com os módulos que cobrem **JavaScript**, **HTML**, **CSS**, **Docker**, entre outras tecnologias essenciais.
+O **Recode DEV Essentials** aborda temas para começar a sua jornada na área de tecnologia, de forma bem prática e objetiva. Com módulos que cobrem **JavaScript**, **HTML**, **CSS**, **Docker**, entre outras tecnologias essenciais.
 
-Além disso, o curso está organizado de forma muito clara, com módulos fáceis de seguir. Cada tópico é apresentado com links para materiais de apoio e vídeos, o que facilita muito o aprendizado.
+Além disso, o curso está organizado de forma muito clara, com módulos fáceis de seguir. Cada tópico é apresentado com links para materiais de apoio e vídeos, o que facilita muito o aprendizado. Equipe dez!!
 
 ---
 
@@ -37,13 +37,13 @@ Além disso, o curso está organizado de forma muito clara, com módulos fáceis
 
 ## 📱 Como acessar o curso?
 
-Se você também tem interesse em aprender mais sobre essas tecnologias e transformar sua carreira, basta acessar o [**Instagram do Recode DEV Essentials**](https://bit.ly/cadastrodevessentialsrecode). Lá você vai encontrar mais detalhes sobre como se inscrever no curso e aproveitar todo o conteúdo incrível!
+Se você também tem interesse em aprender mais sobre essas tecnologias e transformar sua carreira, basta acessar o [** Recode DEV Essentials**](https://bit.ly/cadastrodevessentialsrecode). Lá você vai encontrar mais detalhes sobre como se inscrever no curso e aproveitar todo o conteúdo incrível!
 
 ---
 
 ## 🌟 O que me motivou a fazer o curso?
 
-Eu sou uma aluna apaixonada por tecnologia e estava procurando uma maneira de aprender de forma prática e eficiente. O **Recode DEV Essentials** foi a resposta! O conteúdo é atualizado, bem explicado e muito dinâmico, o que torna o aprendizado muito mais prazeroso. A interação com a comunidade também é ótima, então se você gosta de estudar junto com outras pessoas, esse curso é para você!
+Eu sou uma aluna apaixonada por tecnologia e estava procurando uma maneira de aprender de forma prática e eficiente. Hoje estou no RECODE PROAI, com conteúdo atualizado, bem explicado e muito dinâmico, o que torna o aprendizado muito mais prazeroso. A interação com a comunidade também é ótima, então se você gosta de estudar junto com outras pessoas, esse curso é para você!
 
 ---
 
