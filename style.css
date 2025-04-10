@@ -1,0 +1,26 @@
+body {
+    background-color: #f4f6f9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .module {
+    background-color: #ffffff;
+    border-left: 5px solid #db3178;
+    padding: 2rem 1.5rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.05);
+  }
+  
+  .list-group-item {
+    border: none;
+    background-color: transparent;
+    font-size: 1.05rem;
+    padding-left: 0;
+  }
+  
+  header {
+    background-color: #ecaec8;
+    text-align: center;
+    text-decoration: solid;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
